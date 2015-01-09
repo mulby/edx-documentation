@@ -13,7 +13,7 @@ page, see :ref:`Developing Your Course Index`.
    :maxdepth: 2
 
    creating_new_course
-   course_about_page
+   provide_overview
    course_files
    handouts_updates
    pages
