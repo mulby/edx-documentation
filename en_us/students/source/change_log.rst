@@ -10,6 +10,8 @@ Change Log
 
    * - Date
      - Change
+   * - 1/15/14
+     - Added :ref:`SFD Prerequisites` topic.
    * - 12/12/14
      - Added :ref:`SFD Mobile` topic.
    * - 12/8/14

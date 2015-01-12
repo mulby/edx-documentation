@@ -12,7 +12,7 @@ Overview
 Prospective students need to know specific information about your course,
 including what the course covers, how much time they should plan to spend on the
 course each week, and whether the course requires any prior skills and
-knowledge. You can specify all of this information in Studio.
+knowledge. You specify all of this information in Studio.
 
 For more information, see the following topics:
 
@@ -30,7 +30,8 @@ course summary page. The following image shows a typical About page.
 
 .. image:: ../Images/about_page.png
  :width: 600
- :alt: An image of the course About page.
+ :alt: An image of the course About page showing the course start and end dates,
+     prerequisites, description, and other information
 
 Students see the course About page before they enroll in the course. After a
 student enrolls in the course, students can see information about your course on
@@ -38,7 +39,7 @@ the Student Dashboard.
 
 .. image:: ../Images/dashboard.png
  :width: 600
- :alt: An image of the dashboard
+ :alt: An image of the dashboard showing courses with start and end dates
 
 .. note:: If your course will be available on edX.org, you must work with 
  your edX program manager to prepare the content for your About page, including
@@ -90,7 +91,7 @@ To enter the course overview, follow these steps.
    see how the description will appear to students. A sample About page opens in
    a new window. 
 
-   If you make any changes, note that you may have to wait a moment for the content to auto-save before the changes appear on the page.
+   When you make changes, note that you may have to wait a moment for the content to auto-save before the changes appear on the page.
 
 
 .. _Add a Course Image:
@@ -186,9 +187,9 @@ Set Course Prerequisites
 
 You might want to make sure that your students have a specific set of skills and
 knowledge before they take your course. In addition to suggesting general
-requirements in your course overview, you can :ref:`require students to complete
-specific prerequisite courses<Specify Prerequisite Courses>` or :ref:`require
-students to take an entrance exam<Require an Entrance Exam>`.
+requirements in your course overview, you can require students to :ref:`complete
+specific prerequisite courses<Specify Prerequisite Courses>`, or :ref:`take an
+entrance exam<Require an Entrance Exam>`, or both.
 
 
 .. _Specify Prerequisite Courses:
@@ -197,9 +198,9 @@ students to take an entrance exam<Require an Entrance Exam>`.
 Specify Prerequisite Courses
 ===================================
 
-You can require students to take a particular edX course before they enroll in
-your course. Students can see information about course prerequisites on the
-course About page.
+You can require that your students pass a particular edX course before they
+enroll in your course. Students see information about course prerequisites on
+the course About page.
 
 .. (screen shot)
 
@@ -214,10 +215,9 @@ To specify a prerequisite course, you must have the ``[ROLE NAME(S)]`` role
 in both the current course and in the prerequisite course.
 
 #. In Studio, open your course.
-#. On the **Settings** menu, select **Schedule & Details**, and then scroll to
-   the end of the **Schedule & Details** page.
-#. In the **Requirements** section, under **Prerequisite Course**, click the
-   drop-down list to select a course.
+#. On the **Settings** menu, select **Schedule & Details**.
+#. On the **Schedule & Details** page, scroll to the **Requirements** section.
+#. Under **Prerequisite Course**, click the drop-down list to select a course.
 #. At the bottom of the page, select **Save Changes**.
 
 .. note:: Currently, you can specify only one prerequisite course.
@@ -242,18 +242,18 @@ course.
 To require an entrance exam, follow these steps.
 
 #. In Studio, open your course.
-#. On the **Settings** menu, select **Schedule & Details**, and then scroll to
-   the bottom of the **Schedule & Details** page.
-#. In the **Requirements** section, select the **Require students to pass an
-   exam before accessing course materials** check box.
+#. On the **Settings** menu, select **Schedule & Details**.
+#. On the **Schedule & Details** page, scroll to the **Requirements** section.
+#. Select the **Require students to pass an exam before accessing course
+   materials** check box.
 #. At the bottom of the page, select **Save Changes**.
 
 After you save your changes, Studio automatically creates an **Entrance Exam** 
 section in your course outline. To add content to your entrance exam, go to the 
 course outline. 
 
-Create an Entrance Exam
-*************************
+Create an Entrance Exam from the Course Outline
+**************************************************
 
 You create your course entrance exam from the course outline in Studio. Creating
 entrance exam content is just like creating other course content. For more
