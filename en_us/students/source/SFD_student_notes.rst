@@ -4,9 +4,6 @@
 Student Notes
 ##############################
 
-.. add course author content: authors enable student notes via an advanced
-.. setting (?) - sandbox not currently working
-
 Your edX course may include student notes, a feature that you can use to
 highlight and make notes about what you read during your course. Student
 notes allow you to record your thoughts about course content right in the body
@@ -119,12 +116,15 @@ On the **Notes** tab, you can see all the notes you've created in your course in
 one place. You can view the notes by the date you created or edited them, or by
 the location of the note in the course.
 
-(screen shot)
+.. image:: /Images/SFD_SN_NotesTab.png
+  :width: 500
+  :alt: Notes tab showing a list of notes arranged by recent activity
 
 On the **Notes** tab, you can see both the text that you selected and the note
 that you added. In the right pane, you can also see the location of the text and
 your note in the course. This pane contains a link to the unit where you created
-your note. To see your note in the body of the course, click the links.
+your note. To see your note in the body of the course, click the link for that
+note.
 
 
 
