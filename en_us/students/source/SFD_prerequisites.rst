@@ -53,19 +53,24 @@ your Student Dashboard. However, you cannot access all released course content
 immediately.
 
 The first time that you access the course, the course opens to the **Course
-Info** page. On the left side of the page, instead of seeing sections that
-contain lessons in the course accordion, you only see one section. The name of
-this section is usually **Entrance Exam**, though it may have another name in
-your course.
+Updates & News** page. At the top of the page, instead of seeing several tabs,
+you only see one tab. The name of this tab is usually **Entrance Exam**, though
+it may have another name in your course.
 
-(screen shot)
+.. image:: /Images/EntEx_LandingPage.png
+  :width: 500
+  :alt: The Course Updates & News page with the Entrance Exam tab circled on the
+      left
 
-To begin the entrance exam, select the **Entrance Exam** section.
+To begin the entrance exam, select the **Entrance Exam** tab.
 
-After you pass the entrance exam, you can access all available materials for the
-course. You can see available sections in the course accordion.
+After you pass the entrance exam, you can see all available sections in the course accordion, and you can access all available materials for the
+course.
 
-(screen shot)
+.. image:: /Images/EntEx_CourseAccordionAfterPass.png
+  :width: 500
+  :alt: The student view after the student has passed the entrance exam, with
+      all available course sections listed in the course accordion
 
 .. note:: If you don't see any more course content after you complete the entrance exam, try refreshing the page.
 

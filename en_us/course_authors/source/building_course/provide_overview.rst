@@ -234,7 +234,11 @@ course materials. If you include an entrance exam, students who enroll in your
 course see only the **Course Updates & News** page and an **Entrance Exam** tab 
 until they pass the exam.
 
-.. (screen shot)
+.. image:: ../Images/EntEx_LandingPage.png
+  :width: 500
+  :alt: The Course Updates & News page with the Entrance Exam tab circled on the
+      left
+
 
 After students pass the exam, they can access all released materials in your 
 course. 
@@ -261,8 +265,8 @@ Otherwise, students will not know about the entrance exam before they enroll in
 your course and try to access course content.
 
 When students first try to access content in a course that has an entrance exam,
-they see the **Course Info** page. We recommend that you add an anouncement at
-the top of the **Course Info** page that contains information and instructions
+they see the **Course Updates & News** page. We recommend that you add an anouncement at
+the top of the **Course Updates & News** page that contains information and instructions
 for students who need to take the exam. We suggest that you include the
 following information.
 
@@ -271,6 +275,11 @@ following information.
 * After students complete the entrance exam, they have to click the **Entrance
   Exam** tab again or refresh the page in their browser. When the page
   refreshes, students can see all currently available course content.
+
+  .. image:: ../Images/EntEx_CourseAccordionAfterPass.png
+  :width: 500
+  :alt: The student view after the student has passed the entrance exam, with
+      all available course sections listed in the course accordion
 
 
 Create an Entrance Exam from the Course Outline
