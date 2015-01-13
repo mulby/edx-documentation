@@ -252,6 +252,27 @@ After you save your changes, Studio automatically creates an **Entrance Exam**
 section in your course outline. To add content to your entrance exam, go to the 
 course outline. 
 
+Best Practices for Entrance Exams
+********************************************
+
+When your course requires an entrance exam, we strongly recommend that you
+mention the entrance exam in the course description on your course About page.
+Otherwise, students will not know about the entrance exam before they enroll in
+your course and try to access course content.
+
+When students first try to access content in a course that has an entrance exam,
+they see the **Course Info** page. We recommend that you add an anouncement at
+the top of the **Course Info** page that contains information and instructions
+for students who need to take the exam. We suggest that you include the
+following information.
+
+* To begin the course entrance exam, students click the **Entrance Exam** tab on
+  the left side of the screen.
+* After students complete the entrance exam, they have to click the **Entrance
+  Exam** tab again or refresh the page in their browser. When the page
+  refreshes, students can see all currently available course content.
+
+
 Create an Entrance Exam from the Course Outline
 **************************************************
 

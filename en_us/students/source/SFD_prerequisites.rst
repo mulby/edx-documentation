@@ -24,10 +24,11 @@ prerequisite course on the About page for the course that you want to take.
   :width: 500
   :alt: About page with Prerequisites section circled
 
-You can enroll in the course even if you haven't taken the prerequisite course.
-The course appears on your Student Dashboard. However, you cannot access course
-content. Below the name of the course, you can see the name of the prerequisite
-course, as well as a link to that course. 
+It is possible to enroll in the course even if you haven't taken the
+prerequisite course. When you enroll in the course, the course appears on your
+Student Dashboard. However, you cannot click or select the course to access the
+course content. Below the name of the course, you can see the name of the
+prerequisite course, as well as a link to that course.
 
 .. image:: /Images/PRQ_StDash.png
   :width: 500
@@ -37,8 +38,9 @@ course, as well as a link to that course.
 When you select the link, the About page for the prerequisite course opens.
 You can then enroll in the prerequisite course.
 
-After you successfully complete the prerequisite course, you can access any
-available materials in the other course.
+After you successfully complete the prerequisite course, the other course
+becomes available on your dashboard, just like other edX courses. You can then
+click or select the course to access any available materials.
 
 .. _Entrance Exam:
 
@@ -46,14 +48,15 @@ available materials in the other course.
 Entrance Exam
 **************************
 
-When a course requires an entrance exam, you can enroll in the course, and the
-course appears on your Student Dashboard.
+If you enroll in a course that requires an entrance exam, the course appears on
+your Student Dashboard. However, you cannot access all released course content
+immediately.
 
-When you access course content, the course opens to the **Course Info** page.
-This page might contain information about the entrance exam. In addition to the
-**Course Info** page, you can see one section in the course accordion on the
-left. The name of this section is usually **Entrance Exam**, though it may have
-another name in your course.
+The first time that you access the course, the course opens to the **Course
+Info** page. On the left side of the page, instead of seeing sections that
+contain lessons in the course accordion, you only see one section. The name of
+this section is usually **Entrance Exam**, though it may have another name in
+your course.
 
 (screen shot)
 
