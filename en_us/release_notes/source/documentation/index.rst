@@ -3,8 +3,30 @@ edX Documentation
 ####################################
 
 ******************
+January 14, 2015
+******************
+
+============================
+edX Enrollment API Version 1
+============================
+
+* The `edX Enrollment API`_ guide is now available.
+
+******************
 January 8, 2015
 ******************
+
+==================================
+Building and Running an edX Course
+==================================
+
+* The `Custom JavaScript Problem`_ and `Multiple Problems in One Component`_
+  sections are updated to indicate that you cannot use a custom JavaScript
+  problem in a component with multiple problems.
+
+* The `Adding Course Updates and Handouts`_ and `The Visual Editor`_ sections
+  are updated to clarify that the visual editor is not supported for course
+  handouts.
 
 ==================================
 Building and Running an edX Course
