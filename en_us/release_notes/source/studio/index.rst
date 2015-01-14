@@ -2,6 +2,18 @@
 edX Studio
 ####################################
 
+
+*****************
+January 14, 2015
+*****************
+
+* The Advanced Editor for problem components was not displayed correctly and
+  did not use all space in its dialog box. This problem is resolved. (TNL-920)
+
+* When you made multiple attempts to log in to edX Studio with the wrong
+  password, the error message was not refreshed and there was no indication of
+  the problem on subsequent attempts. This problem is resolved. (TNL-140)
+
 ***************
 January 8, 2015
 ***************
