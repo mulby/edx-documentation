@@ -124,11 +124,11 @@ divided by cohort. See :ref:`Read the Cohort Indicator in Posts`.
    
    .. code:: 
 
-  "auto_cohort_groups": [
-       "Example Group Name A",
-       "Example Group Name B",
-       "Example Group Name C"
-   ]
+    "auto_cohort_groups": [
+         "Example Group Name A",
+         "Example Group Name B",
+         "Example Group Name C"
+     ]
    
 .. comment is here only to allow indented formatting of next line
 
